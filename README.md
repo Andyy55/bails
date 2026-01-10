@@ -82,7 +82,7 @@ console.log("Ur pairing code : " + code)
 ## send orderMessage
 ```javascript
 const fs = require('fs');
-const ZeppImg = fs.readFileSync('./YourImage');
+const nameImg = fs.readFileSync('./YourImage');
 
 await client.sendMessage(m.chat, {
   thumbnail: YourImg,
@@ -138,10 +138,10 @@ await client.relayMessage(m.chat, {
 })
 ```
 ## Thanks For Support
-```json
-kayzen - my self
-Gupong - source my fork
-kiur - source baileys ( maybe )
+```javascript
+const kayzen == "my self"
+const Gupong == "source my fork"
+consy kiur == "source baileys ( maybe )"
 ```
 
 
