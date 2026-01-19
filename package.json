@@ -1,16 +1,16 @@
 {
-    "name": "kayzennotdev/bail",
+    "name": "dilxzcode/bails",
     "version": "1.7.3",
     "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/kayzennotdev/bail",
+    "homepage": "https://github.com/dilxzcode/bails",
     "repository": {
-        "url": "https://github.com/kayzennotdev/bail"
+        "url": "https://github.com/dilxzcode/bails"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "dilxzcoders",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://kayzennotdev/bail/issues"
+      "url": "https://dilxzcode/bails/issues"
     }
-}
+    }
