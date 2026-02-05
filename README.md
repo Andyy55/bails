@@ -41,7 +41,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:dilxzcode/bails"
+  "@whiskeysockets/baileys": "github:Andyy55/bails"
 }
 ```
 ## Import
@@ -142,7 +142,7 @@ await client.relayMessage(m.chat, {
 ## Thanks For Support
 ```javascript
 const credits = {
-  author: "dilxz",
+  author: "Andy",
   source: "kiuur",
   reference: "yuukey"
 };
